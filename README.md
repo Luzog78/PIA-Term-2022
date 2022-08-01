@@ -64,22 +64,24 @@ en fonction de plusieurs critères :
 - le **Support** (ex: *Console*, *Gui*, *Web*, *Autre*),
 - les possibles **Notes** qui viendront complémenter la description rapide,
 - et enfin l'**État** du projet
-(<span style="color: red">Irréalisable</span> / <span style="color: orange">Réalisable</span>
-/ <span style="color: blue">En réalisation</span> / <span style="color: green">Réalisé</span>).
+(![Irréalisable](https://img.shields.io/static/v1?label=&message=Irréalisable&color=f00&style=flat)
+/ ![Réalisable](https://img.shields.io/static/v1?label=&message=Réalisable&color=important&style=flat)
+/ ![En Réalisation](https://img.shields.io/static/v1?label=&message=En%20Réalisation&color=informational&style=flat)
+/ ![Réalisé](https://img.shields.io/static/v1?label=&message=Réalisé&color=success&style=flat)).
 
 <br />
 
-| Nom                                            | Diff | Langages  | Libs            |  Type  | Description                                                        | Notes |    Support    |                     État                      |
-|:-----------------------------------------------|:----:|:----------|:----------------|:------:|:-------------------------------------------------------------------|:------|:-------------:|:---------------------------------------------:|
-| <span style="color: white">...</span>          | ...  | ...       | ...             |  ...   | ...                                                                | ...   |      ...      |     <span style="color: white">...</span>     |
-| <span style="color: green">Hello World</span>  |  0   | Tous      | X               |   TD   | Programme qui affiche juste dans la console un simple Hello World! |       |    Console    |   <span style="color: green">Réalisé</span>   |
-| <span style="color: orange">Juste Prix</span>  |  1   | Java / Py | Random          | TP/TD  | Trouve le bon nombre dans un interval voulu.                       |       | Console / Gui | <span style="color: orange">Réalisable</span> |
-| <span style="color: orange">Black Jack</span>  |  1   | Java / Py | Random          |   TP   | Surtout ne dépasse pas 21 ! &nbsp; xp                              |       |    Console    | <span style="color: orange">Réalisable</span> |
-| <span style="color: orange">Morpion</span>     |  3   | Py        | Random, Tkinter | TP/TD  | Morpion classique, vous connaissez les règles... ^^                |       |      Gui      | <span style="color: orange">Réalisable</span> |
-| <span style="color: orange">Bot Discord</span> |  8   | Py / Js   | Discord Py / Js | Projet |                                                                    |       |    Discord    | <span style="color: orange">Réalisable</span> |
-| <span style="color: orange">Plugin MC</span>   | 7-9  | Java 8    | Spigot 1.7.10   | Projet |                                                                    |       |   Minecraft   | <span style="color: orange">Réalisable</span> |
-| <span style="color: orange">Wordle</span>      |  4   | Py        | Random, Tkinter | TP/TD  |                                                                    |       |      Gui      | <span style="color: orange">Réalisable</span> |
-| <span style="color: orange">Pong</span>        |  4   | Py        | Random, Pygame  |   TP   |                                                                    |       |      Gui      | <span style="color: orange">Réalisable</span> |
+| Nom                                            | Diff | Langages  | Libs            |  Type  | Description                                                        | Notes |    Support    |                                                 État                                                 |
+|:-----------------------------------------------|:----:|:----------|:----------------|:------:|:-------------------------------------------------------------------|:------|:-------------:|:----------------------------------------------------------------------------------------------------:|
+| <span style="color: white">...</span>          | ...  | ...       | ...             |  ...   | ...                                                                | ...   |      ...      |           ![...](https://img.shields.io/static/v1?label=&message=...&color=fff&style=flat)           |
+| <span style="color: green">Hello World</span>  |  0   | Tous      | X               |   TD   | Programme qui affiche juste dans la console un simple Hello World! |       |    Console    |     ![Réalisé](https://img.shields.io/static/v1?label=&message=Réalisé&color=success&style=flat)     |
+| <span style="color: orange">Juste Prix</span>  |  1   | Java / Py | Random          | TP/TD  | Trouve le bon nombre dans un interval voulu.                       |       | Console / Gui | ![Réalisable](https://img.shields.io/static/v1?label=&message=Réalisable&color=important&style=flat) |
+| <span style="color: orange">Black Jack</span>  |  1   | Java / Py | Random          |   TP   | Surtout ne dépasse pas 21 ! &nbsp; xp                              |       |    Console    | ![Réalisable](https://img.shields.io/static/v1?label=&message=Réalisable&color=important&style=flat) |
+| <span style="color: orange">Morpion</span>     |  3   | Py        | Random, Tkinter | TP/TD  | Morpion classique, vous connaissez les règles... ^^                |       |      Gui      | ![Réalisable](https://img.shields.io/static/v1?label=&message=Réalisable&color=important&style=flat) |
+| <span style="color: orange">Bot Discord</span> |  8   | Py / Js   | Discord Py / Js | Projet |                                                                    |       |    Discord    | ![Réalisable](https://img.shields.io/static/v1?label=&message=Réalisable&color=important&style=flat) |
+| <span style="color: orange">Plugin MC</span>   | 7-9  | Java 8    | Spigot 1.7.10   | Projet |                                                                    |       |   Minecraft   | ![Réalisable](https://img.shields.io/static/v1?label=&message=Réalisable&color=important&style=flat) |
+| <span style="color: orange">Wordle</span>      |  4   | Py        | Random, Tkinter | TP/TD  |                                                                    |       |      Gui      | ![Réalisable](https://img.shields.io/static/v1?label=&message=Réalisable&color=important&style=flat) |
+| <span style="color: orange">Pong</span>        |  4   | Py        | Random, Pygame  |   TP   |                                                                    |       |      Gui      | ![Réalisable](https://img.shields.io/static/v1?label=&message=Réalisable&color=important&style=flat) |
 
 ---
 
