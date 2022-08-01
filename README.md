@@ -64,10 +64,10 @@ en fonction de plusieurs critères :
 - le **Support** (ex: *Console*, *Gui*, *Web*, *Autre*),
 - les possibles **Notes** qui viendront complémenter la description rapide,
 - et enfin l'**État** du projet
-(![Irréalisable](https://img.shields.io/static/v1?label=&message=Irréalisable&color=f00&style=flat)
-/ ![Réalisable](https://img.shields.io/static/v1?label=&message=Réalisable&color=important&style=flat)
-/ ![En Réalisation](https://img.shields.io/static/v1?label=&message=En%20Réalisation&color=informational&style=flat)
-/ ![Réalisé](https://img.shields.io/static/v1?label=&message=Réalisé&color=success&style=flat)).
+(![Irréalisable](https://img.shields.io/static/v1?label=&message=Irréalisable&color=f00&style=flat) /
+ ![Réalisable](https://img.shields.io/static/v1?label=&message=Réalisable&color=important&style=flat) /
+ ![En Réalisation](https://img.shields.io/static/v1?label=&message=En%20Réalisation&color=informational&style=flat) /
+ ![Réalisé](https://img.shields.io/static/v1?label=&message=Réalisé&color=success&style=flat)).
 
 <br />
 
